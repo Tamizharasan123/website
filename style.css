@@ -11,7 +11,7 @@
 }
 nav{
   position: fixed;
-  background: #1b1b1b;
+  background: grey;
   width: 100%;
   padding: 10px 0;
   z-index: 12;
@@ -79,12 +79,12 @@ nav .menu{
 }
 .center .title{
   color: #fff;
-  font-size: 55px;
+  font-size: 40px;
   font-weight: 600;
 }
 .center .sub_title{
   color: #fff;
-  font-size: 30px;
+  font-size: 18px;
   font-weight: 600;
 
 }
